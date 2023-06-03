@@ -329,7 +329,7 @@
 			"ControlName"							"CSteamFriendsListPanel"
 			"fieldname"								"SteamFriendsList"
 			"xpos"									"0"
-			"ypos"									"0"
+			"ypos"									"25"
 			"zpos"									"0"
 			"wide"									"f20"
 			"tall"									"110"
