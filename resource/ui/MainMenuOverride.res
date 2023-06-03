@@ -276,15 +276,15 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldname"									"FriendsContainer"
-		"xpos"										"9999"
-		"ypos"										"9999"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"5"
-		"wide"										"260"
+		"wide"										"250"
 		"tall"										"140"
-		"visible"									"0"
+		"visible"									"1"
 
 		"PaintBackgroundType"						"2"
-		"bgcolor_override"							"32 32 32 0"
+		"bgcolor_override"							"32 32 32 500"
 		"border"									"NoBorder"
 
 		"TitleLabel"
@@ -330,10 +330,10 @@
 			"fieldname"								"SteamFriendsList"
 			"xpos"									"0"
 			"ypos"									"0"
-			"zpos"									"9999"
+			"zpos"									"0"
 			"wide"									"f20"
 			"tall"									"110"
-			"visible"								"0"
+			"visible"								"1"
 			"proportionaltoparent"					"1"
 
 			"columns_count"							"2"
